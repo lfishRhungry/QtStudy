@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>moneyIcon.jpeg</file>
+        <file>girl1.gif</file>
+    </qresource>
+</RCC>
